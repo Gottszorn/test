@@ -1,0 +1,11 @@
+h1 {
+color: red;
+}
+body {
+    height: 100%;
+    margin: 0 !important;
+    padding: 0 !important;
+    background-image: url('https://media.myshows.me/shows/1920/9/d7/9d72686cfd2d2775309c55433f79331b.jpg');
+    background-size: contain;
+    height: 1650px;
+}
